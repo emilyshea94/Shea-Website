@@ -2,15 +2,14 @@
 
 ## Description
 
-I built this project to setup my portfollio and showcase everything I've learned so far in my coding Bootcamp class. 
+Horiseon orignal code refactored and optimized by me so that it can be funtional to a user. 
 
 ## Installation
 N/A
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
-This portfollio can be used to view 
+This website can be used to help someone learn about the funcions of the Company "Horiseon" such as Search Engine Optimization, Online Reputaion Management and Social Media Marketing. 
 
 ## Credits
 N/A
