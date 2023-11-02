@@ -2,8 +2,8 @@
     box-sizing: border-box;
     background-color: #2a607c
     padding:;
-    margin: 0;
-    color ;
+    margin:0;
+    color: ;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: fff;
+    color:white;   
 }
 
 header h1 {
@@ -23,8 +23,11 @@ header h1 {
 
 }
 
-header h1 .seo {
-    color: #2a607c ;
+ .seo {
+    color: #f1f4f5 ;
+    float: inline-start;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 75px;
 }
 
 header div {
@@ -35,31 +38,37 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+ ul {
     list-style-type: none;
+    padding: 50px;
+    background-color: #2a607c;
+    color: floralwhite;
 }
 
-header div ul li {
-    display: inline-block;
-    margin-left: 25px;
+ li {
+    list-style-type: none;
+    margin-left: 150px;
+    float: right;
 }
+
 
 a {
-    color: black;
+    color: rgb(245, 238, 238);
     text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
 }
 
 p {
-    font-size: 16px;
+    font-size: 30px;
 }
 
 .hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("./assets/images/digital-marketing-meeting.jpg");
-    background-size: center;
-    background-position: center;
+    margin-bottom: 20px;
+    padding: 1px;
+    height: 25%;
+    width: 20%;
+    
 }
 
 .float-left {
@@ -84,7 +93,7 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 140%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
@@ -134,7 +143,7 @@ p {
 .benefit-cost img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 200px;
 }
 
 .search-engine-optimization {
